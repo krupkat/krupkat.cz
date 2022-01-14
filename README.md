@@ -1,2 +1,0 @@
-# krupkat.github.io
-About
