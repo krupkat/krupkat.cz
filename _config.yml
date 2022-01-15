@@ -1,1 +1,11 @@
-title: "Jekyll Actions Demo"
+title: Tomáš Krupka
+author:
+  name: GitHub User
+  email: your-email@domain.com
+description: >
+  Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+
+theme: jekyll-theme-minimalist
+
+blank_title: true
+google_analytics: false
