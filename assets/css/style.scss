@@ -9,3 +9,14 @@ header {
         margin-top: 5px;
     }
 }
+
+.link-wrapper, .link-wrapper-mobile {
+    a {
+        white-space: nowrap;
+        color:var(--clr-h1-and-bold);
+        text-decoration:none;
+    }
+    a:hover, a:focus {
+        color: var(--clr-a-text-hvr);
+    }
+}

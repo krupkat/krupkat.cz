@@ -7,3 +7,17 @@ theme: jekyll-theme-minimalist
 
 blank_title: true
 google_analytics: false
+
+social:
+  - name: GitHub
+    icon: fa-github
+    link: https://github.com/krupkat
+  - name: LinkedIn
+    icon: fa-linkedin-square
+    link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-krupka-5a15b0101/
+  - name: Matrix
+    icon: fa-matrix-org
+    link: https://matrix.to/#/@krupkat:matrix.org
+  - name: YouTube
+    icon: fa-youtube-play
+    link: https://youtube.com/channel/UCEKNrF3xA2TG4b3NXrq-KFw
