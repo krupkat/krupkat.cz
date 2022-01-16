@@ -18,6 +18,7 @@ jobs:
         with:
           enable_cache: true
           format_output: true
+          prettier_opts: '{ "printWidth": 120 }'
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
