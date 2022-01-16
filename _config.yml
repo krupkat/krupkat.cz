@@ -1,7 +1,5 @@
 title: Tomáš Krupka
-author:
-  name: GitHub User
-  email: your-email@domain.com
+email: false
 description: >
   Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
 
