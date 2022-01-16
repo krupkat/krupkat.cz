@@ -75,6 +75,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.2.1)
+  jekyll-seo-tag (~> 2.7.1)
   jekyll-sitemap (~> 1.4.0)
   jekyll-theme-minimalist!
 

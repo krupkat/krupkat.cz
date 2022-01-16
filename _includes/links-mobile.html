@@ -1,5 +1,5 @@
 <div class="link-wrapper-mobile">
-  {% for platform in site.platforms %}
+  {%- for platform in site.platforms -%}
     <a href="{{ platform.link }}"><i class="fa {{ platform.icon }} fa-lg" aria-hidden="true"></i> {{ platform.name }}</a>
     {% unless forloop.last %}<span style="margin-left: 5px;"></span>{% endunless %}
   {% endfor %}
