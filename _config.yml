@@ -1,14 +1,14 @@
 title: Tomáš Krupka
 email: false
-description: >
-  Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+description: "Software engineer | Freelancer"
+tagline: Software engineer
 
 theme: jekyll-theme-minimalist
 
 blank_title: true
 google_analytics: false
 
-social:
+platforms:
   - name: GitHub
     icon: fa-github
     link: https://github.com/krupkat

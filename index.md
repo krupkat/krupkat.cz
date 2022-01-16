@@ -1,5 +1,10 @@
 ---
 layout: default
+
+# for seo twitter card
+image: /assets/img/logo.png
+twitter:
+  card: summary
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
