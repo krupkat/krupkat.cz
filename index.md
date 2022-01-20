@@ -7,116 +7,35 @@ twitter:
   card: summary
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to my personal landing page! I'm a freelance software engineer, currently located in Prague, Czech Republic. If you're interested in collaborating feel free to contact me through one of the linked platforms!
 
-There should be whitespace between paragraphs.
+### Projects I'm interested in
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Modernizing C++ codebases, GPU (CUDA) acceleration, optimization, computer vision & image processing projects.
 
-## Header 2
+### Technologies I like to use
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+C++, CUDA, OpenCV, Python, Jupyter, gRPC, GIT
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## About me
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+I have a mixed computer science / software engineering background. I have previously studied computer vision and image processing at [CTU Prague](https://oi.fel.cvut.cz/en/), worked on C++/CUDA data processing at [Eyen](https://www.eyen.eu/) and most recently I have been a software engineer at [Google](https://www.google.com), part of the YouTube Trust & Safety Engineering team.
 
-#### Header 4
+06/2015: Graduated from CTU Prague  
+07/2015 - 10/2015: Internship at Adobe  
+04/2016 - 02/2019: Work at Eyen  
+04/2019 - 07/2021: Work at Google  
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## References
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[High cone-angle x-ray computed micro-tomography with 186 GigaVoxel datasets](https://openresearch-repository.anu.edu.au/bitstream/1885/195615/3/99670U.pdf): ANU published article about the tomography work I've contributed to at Eyen.
 
-###### Header 6
+[Motion Capture using Sum of Gaussians Body Model](https://dspace.cvut.cz/handle/10467/62045): Diploma thesis on markerless motion capture.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[Realtime Video Panorama Stitching with OpenCV](https://www.youtube.com/watch?v=QapSxGnUWtY): Toy project for stitching panoramas from video.
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[Mandelbrot](https://wiibrew.org/wiki/Mandelbrot): fractal explorer running on Nintendo Wii.
