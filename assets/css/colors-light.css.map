@@ -3,7 +3,7 @@
 	"file": "colors-light.css",
 	"sources": [
 		"colors-light.scss",
-		"vendor/bundle/ruby/3.1.0/bundler/gems/minimalist-05edc838ff72/_sass/colors.scss"
+		"vendor/bundle/ruby/2.7.0/bundler/gems/minimalist-05edc838ff72/_sass/colors.scss"
 	],
 	"sourcesContent": [
 		"@import \"colors\";\n\n:root {\n  @include colors;\n  @include light-colors;\n}",
