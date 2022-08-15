@@ -3,10 +3,10 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"vendor/bundle/ruby/2.7.0/bundler/gems/minimalist-05edc838ff72/_sass/jekyll-theme-minimalist.scss",
-		"vendor/bundle/ruby/2.7.0/bundler/gems/minimalist-05edc838ff72/_sass/fonts.scss",
-		"vendor/bundle/ruby/2.7.0/bundler/gems/minimalist-05edc838ff72/_sass/rouge-github.scss",
-		"vendor/bundle/ruby/2.7.0/bundler/gems/minimalist-05edc838ff72/_sass/colors.scss"
+		"vendor/bundle/ruby/3.1.0/bundler/gems/minimalist-05edc838ff72/_sass/jekyll-theme-minimalist.scss",
+		"vendor/bundle/ruby/3.1.0/bundler/gems/minimalist-05edc838ff72/_sass/fonts.scss",
+		"vendor/bundle/ruby/3.1.0/bundler/gems/minimalist-05edc838ff72/_sass/rouge-github.scss",
+		"vendor/bundle/ruby/3.1.0/bundler/gems/minimalist-05edc838ff72/_sass/colors.scss"
 	],
 	"sourcesContent": [
 		"@import \"jekyll-theme-minimalist\";\n\nheader {\n    h1 { \n        font-size: 26px; \n        margin-top: 5px;\n    }\n}\n\n.link-wrapper, .link-wrapper-mobile {\n    a {\n        white-space: nowrap;\n        color:var(--clr-h1-and-bold);\n        text-decoration:none;\n    }\n    a:hover, a:focus {\n        color: var(--clr-a-text-hvr);\n    }\n}\n",
