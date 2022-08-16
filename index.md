@@ -32,7 +32,7 @@ I have a mixed computer science / software engineering background. I have previo
 
 ## References
 
-[Xpano](https://github.com/krupkat/xpano): Open source panorama stitching tool.
+[Xpano](https://krupkat.github.io/xpano/): Open source panorama stitching tool.
 
 [High cone-angle x-ray computed micro-tomography with 186 GigaVoxel datasets](https://dx.doi.org/10.1117/12.2238258): ANU published article about the tomography work I've contributed to at Eyen ([pdf](https://openresearch-repository.anu.edu.au/bitstream/1885/195615/3/99670U.pdf)).
 
