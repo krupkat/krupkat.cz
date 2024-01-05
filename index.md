@@ -15,7 +15,7 @@ Modernizing C++ codebases, GPU (CUDA) acceleration, optimization, computer visio
 
 ### Technologies I like to use
 
-C++, CUDA, OpenCV, Python, Jupyter, gRPC, GIT
+C++, CUDA, SYCL, OpenCV, Python, Nix, GIT
 
 ---
 
@@ -32,7 +32,11 @@ I have a mixed computer science / software engineering background. I have previo
 
 ## References
 
-[Xpano](https://krupkat.github.io/xpano/): Open source panorama stitching tool.
+[NixOS on GCP](https://github.com/krupkat/gcp-nixos): Declarative VM with personal services running on GCP.
+
+[Multiblend](https://github.com/krupkat/Multiblend): Example of refactoring and modernizing a C++ codebase.
+
+[Xpano](https://krupkat.github.io/xpano/): Open source panorama stitching tool ([references](https://discuss.pixls.us/c/software/xpano)).
 
 [High cone-angle x-ray computed micro-tomography with 186 GigaVoxel datasets](https://dx.doi.org/10.1117/12.2238258): ANU published article about the tomography work I've contributed to at Eyen ([pdf](https://openresearch-repository.anu.edu.au/bitstream/1885/195615/3/99670U.pdf)).
 
